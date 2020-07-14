@@ -3,8 +3,7 @@ package wcg;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("±è¿ë¼ö : ´Ü¾î");
-		System.out.println("¾çÈñ¿µ : ¾îºÎ");
+		System.out.println("ì´ì¬í˜• : ì†Œë…ì œ");
 	}
 
 }
